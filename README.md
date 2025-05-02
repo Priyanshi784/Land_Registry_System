@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Land Registration System with Blockchain Integration
 
 A full-stack application for land registration and ownership transfer using blockchain technology.
@@ -172,3 +173,7 @@ land-registration-blockchain/
 ## License
 
 This project is licensed under the MIT License. 
+=======
+# Land_Registry_System
+
+>>>>>>> 88884aa8940d0fbf5090fd660408fc10f97dfdfd
